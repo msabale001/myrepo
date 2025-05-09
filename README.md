@@ -9,3 +9,4 @@ How does ArgoCD work in CICD and why it is used?
 As a devOps Engineer how to detect security vulnerabilities?
 How do you manage different environments in CICD?
 What is Docker command to build an image from Dockerfile? Also, explain the flags commonly used?
+What are different ways to trigger a Jenkins pipeline automatically?
