@@ -1,12 +1,1 @@
-Interview Questions
 
-How would you load balance 3-4 servers running services? Which type of load balancing is preferred and Why?
-In Nginx, how do you persist a client connected to a specific server?
-With sticky session and IP hash enabled- what happens if a server goes down?
-How does a Header management works in Nginx?
-Some APIs are unsecured behind API gateway-how would you secure them?
-How does ArgoCD work in CICD and why it is used?
-As a devOps Engineer how to detect security vulnerabilities?
-How do you manage different environments in CICD?
-What is Docker command to build an image from Dockerfile? Also, explain the flags commonly used?
-What are different ways to trigger a Jenkins pipeline automatically?
