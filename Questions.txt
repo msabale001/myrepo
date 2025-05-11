@@ -10,3 +10,4 @@ As a devOps Engineer how to detect security vulnerabilities?
 How do you manage different environments in CICD?
 What is Docker command to build an image from Dockerfile? Also, explain the flags commonly used?
 What are different ways to trigger a Jenkins pipeline automatically?
+Detached Head- state in Git? What causes it and how to resolve it?
