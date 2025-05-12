@@ -12,3 +12,4 @@ What is Docker command to build an image from Dockerfile? Also, explain the flag
 What are different ways to trigger a Jenkins pipeline automatically?
 Detached Head- state in Git? What causes it and how to resolve it?
 How to give access to specific repo to a team member?
+How do you find the OS version on Linux system using command line?
