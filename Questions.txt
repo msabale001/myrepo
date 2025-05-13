@@ -14,3 +14,4 @@ Detached Head- state in Git? What causes it and how to resolve it?
 How to give access to specific repo to a team member?
 How do you find the OS version on Linux system using command line?
 How do you search a specific file inside subfolders in Linux?
+Different types of Deployment strategies? Your preference and Why?
