@@ -16,3 +16,4 @@ How do you find the OS version on Linux system using command line?
 How do you search a specific file inside subfolders in Linux?
 Different types of Deployment strategies? Your preference and Why?
 How do you resolve git merge conflicts?
+Explain the Kubernetes architecture?
